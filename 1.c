@@ -67,4 +67,4 @@ scanf("%f%f%f", &principal, &roi, &t);
 ci = principal * (pow((1 + roi/100), t));
 printf("\nCompound Interest is %f", ci);
 
-// he will gib more ques tomorrow probably
+}
