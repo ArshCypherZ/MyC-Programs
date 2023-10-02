@@ -56,7 +56,7 @@ printf("\nArea of scalene triangle is %f", area);
 // Calculate simple interest
 float p, rate, time, si;
 printf("\nEnter principal amount, rate of interest and time respectively:");
-scanf("%f%f%f", &p, &rate, &time, &si);
+scanf("%f%f%f%f", &p, &rate, &time, &si);
 si = (p * r * t)/100;
 printf("\nSimple Interest is %f", si);
 
