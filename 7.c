@@ -31,7 +31,7 @@ sum3 = sum3 + i/f;
 
 printf("\nFirst Series: %d", sum);
 printf("\nSecond Series: %d", sum2);
-printf("\nThird Series: %d", sum3);
+printf("\nThird Series: %f", sum3);
 
 // Armstrong Number for n digits
 int number, original, temp, digit=0, s=0;
